@@ -1,0 +1,4 @@
+ol li:nth-of-type(2n) { 
+    background-color: lightgrey;
+ }
+ 
